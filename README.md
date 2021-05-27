@@ -4,7 +4,7 @@ Computer Vision and Pattern Recognition Coursework 2021. Finished them with Yuan
 
 ## Getting Started
 
-### Prerequests
+### Prerequisite
 
 * Windows
 * Matlab
